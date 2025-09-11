@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-1.  [Project Overview](#project-overview)
+1.  [Project Overview](#1-project-overview)
 2.  [The Problem Solved](#the-problem-solved)
 3.  [About `pythonmaker`](#about-pythonmaker)
 4.  [How to Use `pythonmaker`](#how-to-use-pythonmaker)
