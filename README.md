@@ -2,7 +2,7 @@
 
 **Author:** Manish Bera  
 **Mentoring Organization:** LibreOffice, The Document Foundation  
-**Mentors:** Xisco Fauli, Hossein Nourikhah
+**Mentors:** Xisco Fauli, Hossein Nourikhah <br/>
 **Project:** Python Code Auto-completion ([GSoC Project Link](https://summerofcode.withgoogle.com/programs/2025/projects/TVa3MD9k))
 
 ## Table of Contents
