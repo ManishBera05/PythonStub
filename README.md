@@ -6,18 +6,18 @@
 
 ## Table of Contents
 
-1.  [Project Overview](#1-project-overview)
-2.  [The Problem Solved](#the-problem-solved)
-3.  [About `pythonmaker`](#about-pythonmaker)
-4.  [How to Use `pythonmaker`](#how-to-use-pythonmaker)
-    -   [Prerequisites](#prerequisites)
-    -   [`unoidl-write`: Compiling IDL to RDB](#unoidl-write-compiling-idl-to-rdb)
-    -   [`pythonmaker`: Generating Stubs from RDB](#pythonmaker-generating-stubs-from-rdb)
-5.  [Example: From IDL to Type-Safe Python](#example-from-idl-to-type-safe-python)
-6.  [Automated Stub Generation in the Build System](#automated-stub-generation-in-the-build-system)
-7.  [Unit Testing Strategy](#unit-testing-strategy)
-8.  [Project Deliverables (Gerrit Patches)](#project-deliverables-gerrit-patches)
-9.  [Future Work](#future-work)
+1. [Project Overview](#1-project-overview)
+2. [The Problem Solved](#2-the-problem-solved)
+3. [About `pythonmaker`](#3-about-pythonmaker)
+4. [How to Use `pythonmaker`](#4-how-to-use-pythonmaker)
+    - [Prerequisites](#prerequisites)
+    - [`unoidl-write`: Compiling IDL to RDB](#unoidl-write-compiling-idl-to-rdb)
+    - [`pythonmaker`: Generating Stubs from RDB](#pythonmaker-generating-stubs-from-rdb)
+5. [Example: From IDL to Type-Safe Python](#5-example-from-idl-to-type-safe-python)
+6. [Automated Stub Generation in the Build System](#6-automated-stub-generation-in-the-build-system)
+7. [Unit Testing Strategy](#7-unit-testing-strategy)
+8. [Project Deliverables (Gerrit Patches)](#8-project-deliverables-gerrit-patches)
+9. [Future Work](#9-future-work)
 
 ## 1. Project Overview
 
