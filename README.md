@@ -1,7 +1,8 @@
 # **Pythonmaker - GSoC 2025**
 
-**Author:** Manish Bera
-**Mentoring Organization:** The Document Foundation
+**Author:** Manish Bera  
+**Mentoring Organization:** LibreOffice, The Document Foundation  
+**Mentors:** Xisco Fauli, Hossein Nourikhah
 **Project:** Python Code Auto-completion ([GSoC Project Link](https://summerofcode.withgoogle.com/programs/2025/projects/TVa3MD9k))
 
 ## Table of Contents
